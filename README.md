@@ -2,7 +2,7 @@
 
 # usage
 
-docker run sanjaytkbabu/svn-client version
+docker run sanjaytkbabu/svn-client version\
 docker run sanjaytkbabu/svn-client checkout URL
 
 
